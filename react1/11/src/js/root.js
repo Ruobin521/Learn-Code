@@ -22,4 +22,4 @@ export default class Root extends React.Component {
 }
 
 ReactDom.render(
-    <Root/>, document.getElementById('mainContainer'))
+    <Root/>, document.getElementById('example'))
