@@ -4,7 +4,7 @@ import CompometHeader from '../components/header'
 import CompometBody from '../components/body'
 import CompometFooter from '../components/footer'
 
-class Index extends React.Component {
+export default class Index extends React.Component {
     render() {
         return (
             <div>
@@ -16,5 +16,5 @@ class Index extends React.Component {
     }
 }
 
-ReactDom.render(
-    <Index/>, document.getElementById('example'))
+// ReactDom.render(
+//     <Index/>, document.getElementById('example'))

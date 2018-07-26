@@ -1,5 +1,5 @@
 var debug = process.env.NODE_ENV !== "production";
-var webpack = require('webpack');
+var webpack = require('../../../../Library/Caches/typescript/2.9/node_modules/@types/webpack');
 var path = require('path');
 
 module.exports = {
