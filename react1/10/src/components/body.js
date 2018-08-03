@@ -1,6 +1,6 @@
-import React from "react";
-import Child from '../components/bodyChild'
-import ReactMixin from 'react-mixin'
+import React from "../../../../../../Library/Caches/typescript/2.9/node_modules/@types/react";
+import Child from './bodyChild'
+import ReactMixin from '../../../../../../Library/Caches/typescript/2.9/node_modules/@types/react-mixin'
 import log from '../js/mixinLog'
 
 export default class BodyIndex extends React.Component {
